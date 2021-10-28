@@ -13,8 +13,8 @@ def F_x(x):
 plt.figure(figsize=(10, 10), dpi=100)
 
 
-for t in range(5):
-    for u in range(7):
+for t in range(3):
+    for u in range(3):
         #print(t)
         #初始化变量（所有变量均初始化为浮点值）
         x = [float(0) for i in range(3600)]
