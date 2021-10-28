@@ -1,6 +1,7 @@
 #本代码需要用到matplotlib.pyplot库，没有安装的先自行安装，实在不会就问我吧
 #本代码也可以用matlab书写，注意变换代码格式
-
+#小伙伴们请先安装pip
+#pip装好后输入以下命令:python -m pip install matplotlib 自动安装matplotlib
 
 import matplotlib.pyplot as plt
 
