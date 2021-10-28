@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 #定义受力函数，（这里求导预先算好了，节约时间）有需要可以对其更改
 def F_x(x):
-    return -x**3 - a0*x
+    return -4*x**3 - 2*a0*x
 
 plt.figure(figsize=(10, 10), dpi=100)
 
